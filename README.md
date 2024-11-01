@@ -1,5 +1,9 @@
-## Hi there 👋
+## Hello World! I am just a student trying to better my knowledge of coding
 
+- 🌱 I’m currently learning Python and the goal is to learn Pytorch
+- 👯 I’m looking to collaborate on data management programs and Machine learning models
+- 🤔 I’m looking for help with how to start tackling a question
+- 📫 How to reach me: Instagram: @sudaisicool
 <!--
 **Sudais-06/Sudais-06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
